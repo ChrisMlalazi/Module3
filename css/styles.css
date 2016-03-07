@@ -75,8 +75,8 @@ p {
 
 #menu-tile, #specials-tile, #map-tile {
   height: auto;
-  width: 100%;
-  margin-bottom: 15px;
+  width: 80%;
+  margin: auto;
   position: relative;
   border: 2px solid #3F0C1F;
   overflow: hidden;
